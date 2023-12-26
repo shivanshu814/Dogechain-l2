@@ -1,4 +1,4 @@
-# Dogechain-l2Research Report on Bitcoin Layer-2 and Dogecoin Layer-2
+### Research Report on Bitcoin Layer-2 and Dogecoin Layer-2
 ### Bitcoin Layer-2
 
 Bitcoin Layer-2 solutions refer to protocols built on top of Bitcoin’s base layer1. These protocols are developed to provide scalability to the Bitcoin network by processing transactions off the main blockchain1. They can also solve other technical difficulties and provide additional functionalities to Bitcoin1.
